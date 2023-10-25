@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Berke</h1>
 <h3 align="center">I'm Berke Özbek, a 22-year-old web developer with over a year of experience. I've been passionate about computers since I was 7 and love learning new things. My goal is to be part of a software development team, where I can focus on mastering the MERN stack. I'm always eager to improve my skills and explore new technologies.</h3>
 
 <h3 align="left">Connect with me:</h3>
